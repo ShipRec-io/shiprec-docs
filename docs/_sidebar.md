@@ -5,4 +5,4 @@
 * Packages
     * [Add Package](/packages/add.md "ShipRec API - Add Package")
     * [List Package](/packages/list.md "ShipRec API - List Package")
-    * [Track Package](/packagess/track.md "ShipRec API - Track Package")
+    * [Track Package](/packages/track.md "ShipRec API - Track Package")
