@@ -2,9 +2,9 @@
 
 To add a new package to begin tracking, first scan the QR code on the tracker to get the Mac Address for the tracking device.
 
-Please see the (Authentication)[authentication.md] page to get an access token. Use this token to setup Bearer Token Authentication.
+Check that you have created an account at [https://track.shiprec.io/packages](https://track.shiprec.io/packages). Please see the [Authentication](authentication.md) page to get an access token. Use this token to setup Bearer Token Authentication.
 
-Make a post request to:
+Make a `POST` request to:
 
 > https://track.shiprec.io/api/packages/new
 
