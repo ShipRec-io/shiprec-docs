@@ -6,3 +6,4 @@
     * [Add Package](/packages/add.md "ShipRec API - Add Package")
     * [List Package](/packages/list.md "ShipRec API - List Package")
     * [Track Package](/packages/track.md "ShipRec API - Track Package")
+    * [Device Metadata](/packages/device.md "ShipRec API - Device Metadata")
