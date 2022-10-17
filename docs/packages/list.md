@@ -4,7 +4,9 @@ To list all the packages associated to your profile, first ensure you have creat
 
 Make a `POST` request to:
 
-> https://track.shiprec.io/api/packages/list
+> https://track.shiprec.io/api/packages/list?offset=0&limit=10
+
+By default, the limit and offset are set at 10 and 0. The response header will include a key `x-api-total-records`, which has the total count of records available to be queried. 
 
 If the succesful, the return value will be of type: `application/json`. Here is an example of the return body with only 1 package in the profile.
 
